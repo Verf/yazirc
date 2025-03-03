@@ -13,8 +13,8 @@ keymap = [
 	{ on = "<C-z>", run = "suspend",            desc = "Suspend the process" },
 
 	# Hopping
-	{ on = "n", run = "arrow -1", desc = "Move cursor up" },
-	{ on = "i", run = "arrow 1",  desc = "Move cursor down" },
+	{ on = "i", run = "arrow -1", desc = "Move cursor up" },
+	{ on = "n", run = "arrow 1",  desc = "Move cursor down" },
 
 	{ on = "<Up>",    run = "arrow -1", desc = "Move cursor up" },
 	{ on = "<Down>",  run = "arrow 1",  desc = "Move cursor down" },
