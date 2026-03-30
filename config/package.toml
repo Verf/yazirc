@@ -1,7 +1,9 @@
-[plugin]
-deps = []
+[[plugin.deps]]
+use = "KKV9/compress"
+rev = "46a6b9f"
+hash = "771af2becc575a3f43d0542de823969d"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-latte"
-rev = "c023460"
-hash = "2bcf14da7d6b95ecf32956ed2bc14c9e"
+rev = "9511cb0"
+hash = "b56d5a941901e5d63dbdbc13d63660fd"
